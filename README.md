@@ -1,5 +1,9 @@
 # Terraform Site
 
+This terrraform will configure a site as illustrated below.  See http://evns.io/blog/site-setup-with-terraform for details.
+
+![Basic Site Setup](basicsetup.png)
+
 ## Prerequisites
 
 * Install terraform
